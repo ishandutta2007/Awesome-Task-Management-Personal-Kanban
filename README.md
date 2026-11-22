@@ -1,37 +1,46 @@
-# Awesome-Task-Management-Personal-Kanban
+# 📋 Awesome-Task-Management-Personal-Kanban
 
 <p align="center">
+  <a href="assets/banner.svg"><img src="assets/banner.svg" alt="Awesome Task Management & Personal Kanban Banner" width="100%"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Task-Management-Personal-Kanban"><img src="https://img.shields.io/badge/Awesome-Task%20Management%20%26%20Kanban-FC60A8?style=flat-square&logo=awesomelists" alt="Awesome List"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Task-Management-Personal-Kanban/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Task-Management-Personal-Kanban?style=flat-square&logo=github&color=blue" alt="GitHub Stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Task-Management-Personal-Kanban/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Task-Management-Personal-Kanban?style=flat-square&logo=github&color=green" alt="Forks"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Task-Management-Personal-Kanban/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Task-Management-Personal-Kanban?style=flat-square" alt="License"></a>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Mentioned in Awesome"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Mentioned in Awesome"></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta0007?label=Follow" /></a>
 </p>
 
-## Top Task Management & Personal Kanban Ecosystem: Open-Source Tools, Self-Hosted Boards & Modern SaaS
+## 🌟 Top Task Management & Personal Kanban Ecosystem: Open-Source Tools, Self-Hosted Boards & Modern SaaS
 
-> Curated index of the best SaaS task management platforms, self-hosted Kanban boards, open-source issue trackers, CLI to-do runners, and local-first AI work assistants for developers, engineering teams, and productivity enthusiasts.
+> 📌 Curated index of the best SaaS task management platforms, self-hosted Kanban boards, open-source issue trackers, CLI to-do runners, and local-first AI work assistants for developers, engineering teams, and productivity enthusiasts.
 
-### Why This List?
+### 💡 Why This List?
 Whether you are an engineering manager coordinating cross-functional agile sprints, a solo developer seeking terminal-based to-do workflows, or a privacy-conscious team deploying self-hosted Docker Kanban boards, finding the right task tracking system is critical. This comprehensive directory benchmarks leading enterprise SaaS suites against high-growth, privacy-focused open-source alternatives.
 
-**Search Keywords / Topics**: `task-management`, `personal-kanban`, `kanban-board`, `open-source-kanban`, `self-hosted-kanban`, `jira-alternative`, `linear-alternative`, `trello-alternative`, `cli-task-manager`, `agile-project-management`, `todo-apps`, `work-management-software`.
+**🔍 Search Keywords / Topics**: `task-management`, `personal-kanban`, `kanban-board`, `open-source-kanban`, `self-hosted-kanban`, `jira-alternative`, `linear-alternative`, `trello-alternative`, `cli-task-manager`, `agile-project-management`, `todo-apps`, `work-management-software`.
 
-## Table of Contents
+## 📑 Table of Contents
 
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS/Hosted Platforms](#️-saashosted-platforms)
+- [🚀 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Star History](#-star-history)
+- [💖 Support & Community](#-support--community)
+- [⚠️ Disclaimer](#️-disclaimer)
 
 
 
-## Sector Overview & Market Dynamics
+## 📊 Sector Overview & Market Dynamics
 
 The global project and task management software market is valued at approximately **$7.5 billion to $10.5 billion (2025–2026)** and is projected to reach over **$15 billion by 2030**, expanding at a Compound Annual Growth Rate (CAGR) of 10–13%. The market is **moderately fragmented**: enterprise work suites (Atlassian Jira, Asana, Monday.com) capture dominant corporate market share, yet intense niche competition thrives across high-velocity developer tools (Linear, Shortcut), flexible visual workgraphs (Notion, ClickUp), and self-hosted privacy-focused open-source alternatives.
 
-## SaaS/Hosted Platforms
+## ☁️ SaaS/Hosted Platforms
 
 | Platform | Company Size / Valuation | Pricing (Starting Tier) | Free Tier Limit | Description |
 | :--- | :--- | :--- | :--- | :--- |
@@ -46,7 +55,7 @@ The global project and task management software market is valued at approximatel
 | **[Shortcut](https://shortcut.com)** | ~$200M valuation (Private; $50M+ raised) | $8.50 / user / month (Team plan, billed annually: $8.50/mo or $10/mo monthly) | Free forever up to 10 users, unlimited teams, docs, iterations, and core project management features | Collaborative project management platform built specifically for software teams, bridging the gap between lightweight Kanban tools and heavy enterprise trackers. |
 | **[Basecamp](https://basecamp.com)** | Bootstrapped / Highly Profitable (~$100M+ ARR) | $15.00 / user / month (Standard Basecamp plan; or $299/month fixed for Pro Unlimited with unlimited users) | 30-day free trial with full unrestricted access to all features (no credit card required; no permanent free plan) | Opinionated project management and team communication suite combining to-do lists, Hill Charts, message boards, and schedules. |
 
-## Open-Source GitHub Projects
+## 🚀 Open-Source GitHub Projects
 
 - **[AppFlowy (AppFlowy-IO/AppFlowy)](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
   Open-source, privacy-first Notion alternative built with Flutter and Rust providing extensible Kanban boards, databases, document templates, and offline data ownership.
@@ -123,7 +132,7 @@ The global project and task management software market is valued at approximatel
 - **[Taskuary (ldbumble/taskuary)](https://github.com/ldbumble/taskuary)** [![GitHub stars](https://img.shields.io/github/stars/ldbumble/taskuary?style=social&color=white)](https://github.com/ldbumble/taskuary/stargazers)  
   Local-first, open-source AI work partner that unifies emails, team chats, and GitHub tickets into an automated, prioritized task list where AI agents draft replies and triage tasks.
 
-## How to Contribute
+## 🤝 How to Contribute
 
 
 
@@ -141,7 +150,20 @@ Star the repo if you find it useful!
 
 
 
-## Disclaimer
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Task-Management-Personal-Kanban&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Task-Management-Personal-Kanban&type=date&legend=top-left)
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Task-Management-Personal-Kanban&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Task-Management-Personal-Kanban&type=date&legend=top-left)
+
+## 💖 Support & Community
+
+Thank you so much for exploring this curated guide to Task Management & Personal Kanban! If this project helped you discover new developer tools, streamline your agile workflow, or deploy a self-hosted board:
+
+- ⭐ **Star this repository** to support future updates and help others discover it.
+- 🍴 **Fork and share** with your teammates, engineering peers, and developer communities.
+- ☕ **Buy a coffee & sponsor**: If you'd like to support ongoing open-source maintenance, consider sponsoring via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+## ⚠️ Disclaimer
 
 
 
