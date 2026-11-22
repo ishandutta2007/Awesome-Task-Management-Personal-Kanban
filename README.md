@@ -1,217 +1,120 @@
 # Awesome-Task-Management-Personal-Kanban
-# Awesome-Task-Management-Personal-Kanban
 
-## Top Task Management & Personal Kanban Ecosystem
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Task-Management-Personal-Kanban"><img src="https://img.shields.io/badge/Awesome-Task%20Management%20%26%20Kanban-FC60A8?style=flat-square&logo=awesomelists" alt="Awesome List"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Task-Management-Personal-Kanban/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Task-Management-Personal-Kanban?style=flat-square&logo=github&color=blue" alt="GitHub Stars"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Task-Management-Personal-Kanban/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Task-Management-Personal-Kanban?style=flat-square&logo=github&color=green" alt="Forks"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Task-Management-Personal-Kanban/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Task-Management-Personal-Kanban?style=flat-square" alt="License"></a>
+  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Mentioned in Awesome"></a>
+</p>
 
+## Top Task Management & Personal Kanban Ecosystem: Open-Source Tools, Self-Hosted Boards & Modern SaaS
 
+> Curated index of the best SaaS task management platforms, self-hosted Kanban boards, open-source issue trackers, CLI to-do runners, and local-first AI work assistants for developers, engineering teams, and productivity enthusiasts.
 
-**Curated List of SaaS/Hosted Platforms & Open-Source GitHub Projects**  
+### Why This List?
+Whether you are an engineering manager coordinating cross-functional agile sprints, a solo developer seeking terminal-based to-do workflows, or a privacy-conscious team deploying self-hosted Docker Kanban boards, finding the right task tracking system is critical. This comprehensive directory benchmarks leading enterprise SaaS suites against high-growth, privacy-focused open-source alternatives.
 
-*Focused on Issue Trackers, Kanban Boards, Self-Hosted Project Management, CLI Task Runners & AI Work Assistants*  
-
-**Last updated: November 2026**
-
-
-
-This repository tracks notable **SaaS/hosted platforms** and **open-source projects** for **Task Management & Personal Kanban**. These tools help individuals, developers, and engineering teams organize backlogs, triage incoming requests, run sprints, manage personal to-dos, and automate task execution across web, desktop, and terminal environments.
-
-
-
-**Examples** include ldbumble/taskuary, Plane, Vikunja, Focalboard, Planka, WeKan, Kanboard, Taiga, Leantime, OpenProject, Taskwarrior, Linear, ClickUp, Asana, Trello, Notion Projects, Monday.com, Jira Software, Shortcut, Wrike, and Basecamp.
-
-
-
-**Open-source emphasis**: This list heavily expands on active open-source self-hosted Kanban boards, Linear/Jira alternatives, local-first AI task partners, and terminal-based task managers — ideal for developers, privacy-conscious individuals, and teams seeking full data ownership.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
+**Search Keywords / Topics**: `task-management`, `personal-kanban`, `kanban-board`, `open-source-kanban`, `self-hosted-kanban`, `jira-alternative`, `linear-alternative`, `trello-alternative`, `cli-task-manager`, `agile-project-management`, `todo-apps`, `work-management-software`.
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saashosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
 
 
+## Sector Overview & Market Dynamics
+
+The global project and task management software market is valued at approximately **$7.5 billion to $10.5 billion (2025–2026)** and is projected to reach over **$15 billion by 2030**, expanding at a Compound Annual Growth Rate (CAGR) of 10–13%. The market is **moderately fragmented**: enterprise work suites (Atlassian Jira, Asana, Monday.com) capture dominant corporate market share, yet intense niche competition thrives across high-velocity developer tools (Linear, Shortcut), flexible visual workgraphs (Notion, ClickUp), and self-hosted privacy-focused open-source alternatives.
+
 ## SaaS/Hosted Platforms
 
+| Platform | Company Size / Valuation | Pricing (Starting Tier) | Free Tier Limit | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Atlassian (Jira Software)](https://atlassian.com)** | $55.0B market cap (Public: TEAM) | $7.55 / user / month (Standard plan) | Free forever up to 10 users, 2 GB file storage, unlimited Scrum & Kanban boards, and basic backlog management | Atlassian's flagship agile project management and issue-tracking platform supporting Scrum, Kanban boards, roadmaps, and deep DevOps integrations. |
+| **[Notion (Notion Projects)](https://notion.com)** | $10.0B valuation (Private) | $10.00 / user / month (Plus plan, billed annually: $10/mo or $12/mo monthly) | Free forever for individual use, up to 10 page guests, 5 MB maximum file upload limit, unlimited pages and database blocks | Integrated project and task management layer built inside Notion's connected workspace with customizable databases, sprints, and AI autofill. |
+| **[Monday.com](https://monday.com)** | $8.0B market cap (Public: MNDY) | $9.00 / seat / month (Basic plan, minimum 3 seats, billed annually: $9/seat/mo or $12/seat/mo monthly) | Free forever up to 2 seats, 3 active boards, 200+ built-in templates, 500 MB storage | Cloud Work OS enabling teams to build custom Kanban boards, project trackers, resource schedules, and automated business workflows. |
+| **[ClickUp](https://clickup.com)** | $4.0B valuation (Private) | $7.00 / user / month (Unlimited plan, billed annually: $7/mo or $10/mo monthly) | Free forever up to 100 MB cloud storage, unlimited tasks, unlimited free plan members, 60 uses of custom fields | All-in-one cloud productivity and project management platform combining Kanban boards, lists, docs, goals, and time tracking. |
+| **[Asana](https://asana.com)** | $3.0B market cap (Public: ASAN) | $10.99 / user / month (Starter plan, ## Open-Source GitHub Projects
 
+- **[AppFlowy (AppFlowy-IO/AppFlowy)](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
+  Open-source, privacy-first Notion alternative built with Flutter and Rust providing extensible Kanban boards, databases, document templates, and offline data ownership.
 
-- **[Linear](https://linear.app)**  
+- **[AFFiNE (toeverything/AFFiNE)](https://github.com/toeverything/AFFiNE)** [![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
+  All-in-one open-source visual workspace for knowledge management, Kanban task tracking, mind mapping, and canvas whiteboarding with local-first sync.
 
-  Streamlined, high-speed issue tracking and project management platform designed for modern software engineering teams with keyboard-first navigation and Git workflows.
+- **[Plane (makeplane/plane)](https://github.com/makeplane/plane)** [![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)  
+  Modern, open-source project management and issue-tracking platform (Linear and Jira alternative) featuring agile Kanban boards, issue cycles, modules, pages, and self-hosting via Docker.
 
+- **[Logseq (logseq/logseq)](https://github.com/logseq/logseq)** [![GitHub stars](https://img.shields.io/github/stars/logseq/logseq?style=social&color=white)](https://github.com/logseq/logseq/stargazers)  
+  Privacy-first, local-first outliner and knowledge base with built-in task management, scheduled agendas, priority flags, and interactive Kanban boards stored in plain Markdown or Org-mode.
 
+- **[Huly (hcengineering/platform)](https://github.com/hcengineering/platform)** [![GitHub stars](https://img.shields.io/github/stars/hcengineering/platform?style=social&color=white)](https://github.com/hcengineering/platform/stargazers)  
+  All-in-one open-source team workspace combining issue tracking, Kanban boards, documents, real-time team chat, and virtual office presence as a modern Linear/Notion alternative.
 
-- **[ClickUp](https://clickup.com)**  
+- **[Focalboard (mattermost-community/focalboard)](https://github.com/mattermost-community/focalboard)** [![GitHub stars](https://img.shields.io/github/stars/mattermost-community/focalboard?style=social&color=white)](https://github.com/mattermost-community/focalboard/stargazers)  
+  Open-source, multilingual project and task management board (Trello, Notion, and Asana alternative) available as an integrated Mattermost plugin or standalone personal desktop application.
 
-  All-in-one cloud productivity and project management platform combining Kanban boards, lists, docs, goals, and time tracking.
+- **[Super Productivity (super-productivity/super-productivity)](https://github.com/super-productivity/super-productivity)** [![GitHub stars](https://img.shields.io/github/stars/super-productivity/super-productivity?style=social&color=white)](https://github.com/super-productivity/super-productivity/stargazers)  
+  Open-source personal to-do list, time-tracker, and daily task planner featuring bi-directional synchronization with Jira, GitHub, GitLab, and OpenProject, complete with Pomodoro timers.
 
+- **[WeKan (wekan/wekan)](https://github.com/wekan/wekan)** [![GitHub stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers)  
+  Mature, feature-rich open-source Kanban board supporting multi-level swimlanes, Work-In-Progress (WIP) limits, checklists, rule-based automations, and turnkey Docker/Snap deployments.
 
+- **[OpenProject (opf/openproject)](https://github.com/opf/openproject)** [![GitHub stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)  
+  Comprehensive enterprise open-source project management suite offering agile Kanban boards, interactive Gantt timelines, bug tracking, cost reporting, and product roadmaps.
 
-- **[Asana](https://asana.com)**  
+- **[Planka (plankanban/planka)](https://github.com/plankanban/planka)** [![GitHub stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers)  
+  Real-time, responsive open-source Kanban board application designed as a clean, self-hosted alternative to Trello with Markdown support, card timers, custom backgrounds, and attachments.
 
-  Enterprise work management platform offering Kanban boards, timeline views, automated workflows, and cross-team goal tracking.
+- **[Leantime (Leantime/leantime)](https://github.com/Leantime/leantime)** [![GitHub stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers)  
+  Open-source strategic project management system combining Kanban boards, milestones, timesheets, retrospectives, and goal tracking designed intentionally for neurodiverse and lean teams.
 
+- **[Kanboard (kanboard/kanboard)](https://github.com/kanboard/kanboard)** [![GitHub stars](https://img.shields.io/github/stars/kanboard/kanboard?style=social&color=white)](https://github.com/kanboard/kanboard/stargazers)  
+  Minimalist, ultra-fast open-source project management software strictly adhering to the Kanban methodology with drag-and-drop boards, subtasks, SQL drivers, and low footprint.
 
+- **[Taskbook (klaudiosinani/taskbook)](https://github.com/klaudiosinani/taskbook)** [![GitHub stars](https://img.shields.io/github/stars/klaudiosinani/taskbook?style=social&color=white)](https://github.com/klaudiosinani/taskbook/stargazers)  
+  Command-line interface for tasks, boards, and notes across multiple terminal boards with clean visual syntax, priorities, timeline views, and atomic storage.
 
-- **[Trello](https://trello.com)**  
+- **[Dendron (dendronhq/dendron)](https://github.com/dendronhq/dendron)** [![GitHub stars](https://img.shields.io/github/stars/dendronhq/dendron?style=social&color=white)](https://github.com/dendronhq/dendron/stargazers)  
+  Open-source, local-first hierarchical note-taking and task-tracking engine built inside VS Code, managing backlogs and reference documentation in version-controlled Markdown.
 
-  Popular visual Kanban board and card-based task organization tool by Atlassian with power-ups and no-code Butler automation.
+- **[Taskwarrior (GothenburgBitFactory/taskwarrior)](https://github.com/GothenburgBitFactory/taskwarrior)** [![GitHub stars](https://img.shields.io/github/stars/GothenburgBitFactory/taskwarrior?style=social&color=white)](https://github.com/GothenburgBitFactory/taskwarrior/stargazers)  
+  Industrial-grade, open-source command-line task management utility featuring rich boolean filtering, tags, recurring tasks, dependency tracking, and terminal reports.
 
+- **[Vikunja (go-vikunja/vikunja)](https://github.com/go-vikunja/vikunja)** [![GitHub stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)  
+  Modern open-source, self-hosted to-do and task management server with web frontend supporting Kanban boards, Gantt charts, table views, CalDAV synchronization, and Todoist imports.
 
+- **[Taskcafe (JordanKnott/taskcafe)](https://github.com/JordanKnott/taskcafe)** [![GitHub stars](https://img.shields.io/github/stars/JordanKnott/taskcafe?style=social&color=white)](https://github.com/JordanKnott/taskcafe/stargazers)  
+  Clean, open-source personal and team Kanban project management tool built with Go, React, and GraphQL with drag-and-drop card organization and custom status labels.
 
-- **[Notion Projects](https://notion.com)**  
+- **[Obsidian Kanban (community-archive/obsidian-kanban)](https://github.com/community-archive/obsidian-kanban)** [![GitHub stars](https://img.shields.io/github/stars/community-archive/obsidian-kanban?style=social&color=white)](https://github.com/community-archive/obsidian-kanban/stargazers)  
+  Popular open-source Kanban plugin for Obsidian that renders native Markdown lists as visual interactive drag-and-drop boards with date pickers and checkable sub-items.
 
-  Integrated project and task management layer built inside Notion's connected workspace with customizable databases, sprints, and AI autofill.
+- **[Nullboard (apankrat/nullboard)](https://github.com/apankrat/nullboard)** [![GitHub stars](https://img.shields.io/github/stars/apankrat/nullboard?style=social&color=white)](https://github.com/apankrat/nullboard/stargazers)  
+  Ultra-lightweight, single-file, offline-first personal Kanban board stored completely in local browser storage or plain JSON files without backend servers or databases.
 
+- **[Trilium Notes (TriliumNext/Notes)](https://github.com/TriliumNext/Notes)** [![GitHub stars](https://img.shields.io/github/stars/TriliumNext/Notes?style=social&color=white)](https://github.com/TriliumNext/Notes/stargazers)  
+  Hierarchical personal knowledge and task management system built on Node.js and SQLite with rich task tracking, attributes, scripting, and self-hosted sync.
 
+- **[Tasks.md (BaldissaraMatheus/Tasks.md)](https://github.com/BaldissaraMatheus/Tasks.md)** [![GitHub stars](https://img.shields.io/github/stars/BaldissaraMatheus/Tasks.md?style=social&color=white)](https://github.com/BaldissaraMatheus/Tasks.md/stargazers)  
+  Self-hosted, lightweight personal Kanban board backed directly by standard Markdown files with zero database configuration or external dependencies.
 
-- **[Monday.com](https://monday.com)**  
+- **[Taiga (taigaio/taiga-docker)](https://github.com/taigaio/taiga-docker)** [![GitHub stars](https://img.shields.io/github/stars/taigaio/taiga-docker?style=social&color=white)](https://github.com/taigaio/taiga-docker/stargazers)  
+  Production-ready containerized deployment for Taiga, the open-source agile project management platform for startups and cross-functional teams featuring Scrum and Kanban.
 
-  Cloud Work OS enabling teams to build custom Kanban boards, project trackers, resource schedules, and automated business workflows.
+- **[Taskell (smallhadroncollider/taskell)](https://github.com/smallhadroncollider/taskell)** [![GitHub stars](https://img.shields.io/github/stars/smallhadroncollider/taskell?style=social&color=white)](https://github.com/smallhadroncollider/taskell/stargazers)  
+  Interactive command-line Kanban board written in Haskell that reads and persists boards in clean, human-readable Trello-compatible Markdown files.
 
+- **[Nextcloud Deck (nextcloud/deck)](https://github.com/nextcloud/deck)** [![GitHub stars](https://img.shields.io/github/stars/nextcloud/deck?style=social&color=white)](https://github.com/nextcloud/deck/stargazers)  
+  Integrated Kanban-style personal and team organization app built for Nextcloud with card attachments, user assignment, deadlines, and mobile client support.
 
-
-- **[Jira Software](https://atlassian.com)**  
-
-  Atlassian's flagship agile project management and issue-tracking platform supporting Scrum, Kanban boards, roadmaps, and deep DevOps integrations.
-
-
-
-- **[Shortcut](https://shortcut.com)**  
-
-  Collaborative project management platform built specifically for software teams, bridging the gap between lightweight Kanban tools and heavy enterprise trackers.
-
-
-
-- **[Wrike](https://wrike.com)**  
-
-  Cloud-based collaborative work management platform featuring Kanban boards, Gantt charts, proofing tools, and resource workload management.
-
-
-
-- **[Basecamp](https://basecamp.com)**  
-
-  Opinionated project management and team communication suite combining to-do lists, Hill Charts, message boards, and schedules.
-
-
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[Taskuary (ldbumble/taskuary)](https://github.com/ldbumble/taskuary)**  
-
-  Local-first, open-source AI work partner that consolidates emails, chats, and GitHub tickets into a prioritized task list where AI agents draft replies and execute work awaiting your one-click approval.
-
-
-
-- **[Plane](https://github.com)**  
-
-  Modern, open-source project management and issue-tracking tool (popular Linear and Jira alternative) featuring Kanban boards, cycles, modules, and self-hosting via Docker.
-
-
-
-- **[Vikunja](https://github.com)**  
-
-  Open-source, self-hosted to-do and task management platform supporting Kanban boards, Gantt charts, list views, CalDAV sync, and Trello/Todoist imports.
-
-
-
-- **[Planka](https://github.com)**  
-
-  Real-time, open-source Kanban board application designed as a lightweight, self-hosted alternative to Trello with Markdown cards, timers, and attachments.
-
-
-
-- **[WeKan](https://github.com)**  
-
-  Mature, feature-rich open-source Kanban board supporting swimlanes, WIP limits, checklists, rules automation, and wide self-hosted deployment options.
-
-
-
-- **[Kanboard](https://github.com)**  
-
-  Minimalist, fast open-source project management software focused on the Kanban methodology with drag-and-drop boards, subtasks, and low resource requirements.
-
-
-
-- **[Focalboard](https://github.com)**  
-
-  Open-source, self-hosted project management tool (Trello, Notion, and Asana alternative) available as a standalone personal desktop app or team server.
-
-
-
-- **[Taiga](https://github.com)**  
-
-  Open-source agile project management platform for cross-functional teams offering Scrum backlogs, Kanban boards, issue tracking, and wikis.
-
-
-
-- **[Leantime](https://github.com)**  
-
-  Open-source strategic project management system combining Kanban boards, timesheets, retrospectives, and goal tracking designed for neurodiverse and lean teams.
-
-
-
-- **[OpenProject](https://github.com)**  
-
-  Comprehensive open-source project management suite offering agile Kanban boards, Gantt timelines, bug tracking, and enterprise resource planning.
-
-
-
-- **[Taskwarrior](https://github.com)**  
-
-  Powerful, open-source command-line task management tool with rich filtering, tagging, recurrence, and customizable terminal reports.
-
-
-
-- **[Super Productivity](https://github.com)**  
-
-  Open-source personal to-do list, time-tracker, and daily planner with built-in Jira, GitHub, GitLab, and CalDAV integrations.
-
-
-
-- **[Huly](https://github.com)**  
-
-  All-in-one open-source workspace combining issue tracking, Kanban boards, documents, team chat, and virtual office features as a Linear/Notion alternative.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[Taskcafe](https://github.com)** — Clean, open-source Kanban project management tool built with Go, React, and GraphQL.
-
-- **[Nullboard](https://github.com)** — Minimalist, single-file, offline-first personal Kanban board stored locally in browser storage or plain JSON.
-
-- **[Brisqi](https://github.com)** — Offline-first, privacy-focused personal Kanban desktop app with encrypted cloud sync options.
-
-- **[Taskell](https://github.com)** — Command-line Kanban board written in Haskell that stores boards in clean, human-readable Markdown files.
-
-- **[Tasks.md](https://github.com)** — Self-hosted, Markdown-file-backed personal Kanban board with zero database overhead.
-
-- **[Logseq](https://github.com)** & **[Obsidian Kanban](https://github.com)** — Local-first Markdown outliner and Kanban board workflows for personal knowledge and task management.
-
-- **[4get / Fizzy / Nextcloud Deck](https://github.com)** — Kanban-style organization app integrated directly into the Nextcloud self-hosted ecosystem.
-
-
-
-**Frameworks for building custom systems**: Combine **Taskuary** or **Taskwarrior** for personal inbox/CLI triage with **Plane**, **Vikunja**, or **Planka** for self-hosted visual Kanban boards, and connect **n8n** + **Ollama** for automated task routing.
-
-
+- **[Taskuary (ldbumble/taskuary)](https://github.com/ldbumble/taskuary)** [![GitHub stars](https://img.shields.io/github/stars/ldbumble/taskuary?style=social&color=white)](https://github.com/ldbumble/taskuary/stargazers)  
+  Local-first, open-source AI work partner that unifies emails, team chats, and GitHub tickets into an automated, prioritized task list where AI agents draft replies and triage tasks.
 
 ## How to Contribute
 
