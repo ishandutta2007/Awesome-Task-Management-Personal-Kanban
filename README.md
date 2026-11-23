@@ -8,7 +8,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Task-Management-Personal-Kanban"><img src="https://img.shields.io/badge/Awesome-Task%20Management%20%26%20Kanban-FC60A8?style=flat-square&logo=awesomelists" alt="Awesome List"></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Task-Management-Personal-Kanban/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Task-Management-Personal-Kanban?style=flat-square&logo=github&color=blue" alt="GitHub Stars"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Task-Management-Personal-Kanban/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Task-Management-Personal-Kanban?style=flat-square&logo=github&color=blue" alt="GitHub_Stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Task-Management-Personal-Kanban/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Task-Management-Personal-Kanban?style=flat-square&logo=github&color=green" alt="Forks"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Task-Management-Personal-Kanban/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Task-Management-Personal-Kanban?style=flat-square" alt="License"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Mentioned in Awesome"></a>
@@ -57,79 +57,79 @@ The global project and task management software market is valued at approximatel
 
 ## 🚀 Open-Source GitHub Projects
 
-- **[AppFlowy (AppFlowy-IO/AppFlowy)](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
+- **[AppFlowy (AppFlowy-IO/AppFlowy)](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub_Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
   Open-source, privacy-first Notion alternative built with Flutter and Rust providing extensible Kanban boards, databases, document templates, and offline data ownership.
 
-- **[AFFiNE (toeverything/AFFiNE)](https://github.com/toeverything/AFFiNE)** [![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
+- **[AFFiNE (toeverything/AFFiNE)](https://github.com/toeverything/AFFiNE)** [![GitHub_Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
   All-in-one open-source visual workspace for knowledge management, Kanban task tracking, mind mapping, and canvas whiteboarding with local-first sync.
 
-- **[Plane (makeplane/plane)](https://github.com/makeplane/plane)** [![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)  
+- **[Plane (makeplane/plane)](https://github.com/makeplane/plane)** [![GitHub_Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)  
   Modern, open-source project management and issue-tracking platform (Linear and Jira alternative) featuring agile Kanban boards, issue cycles, modules, pages, and self-hosting via Docker.
 
-- **[Logseq (logseq/logseq)](https://github.com/logseq/logseq)** [![GitHub stars](https://img.shields.io/github/stars/logseq/logseq?style=social&color=white)](https://github.com/logseq/logseq/stargazers)  
+- **[Logseq (logseq/logseq)](https://github.com/logseq/logseq)** [![GitHub_Stars](https://img.shields.io/github/stars/logseq/logseq?style=social&color=white)](https://github.com/logseq/logseq/stargazers)  
   Privacy-first, local-first outliner and knowledge base with built-in task management, scheduled agendas, priority flags, and interactive Kanban boards stored in plain Markdown or Org-mode.
 
-- **[Huly (hcengineering/platform)](https://github.com/hcengineering/platform)** [![GitHub stars](https://img.shields.io/github/stars/hcengineering/platform?style=social&color=white)](https://github.com/hcengineering/platform/stargazers)  
+- **[Huly (hcengineering/platform)](https://github.com/hcengineering/platform)** [![GitHub_Stars](https://img.shields.io/github/stars/hcengineering/platform?style=social&color=white)](https://github.com/hcengineering/platform/stargazers)  
   All-in-one open-source team workspace combining issue tracking, Kanban boards, documents, real-time team chat, and virtual office presence as a modern Linear/Notion alternative.
 
-- **[Focalboard (mattermost-community/focalboard)](https://github.com/mattermost-community/focalboard)** [![GitHub stars](https://img.shields.io/github/stars/mattermost-community/focalboard?style=social&color=white)](https://github.com/mattermost-community/focalboard/stargazers)  
+- **[Focalboard (mattermost-community/focalboard)](https://github.com/mattermost-community/focalboard)** [![GitHub_Stars](https://img.shields.io/github/stars/mattermost-community/focalboard?style=social&color=white)](https://github.com/mattermost-community/focalboard/stargazers)  
   Open-source, multilingual project and task management board (Trello, Notion, and Asana alternative) available as an integrated Mattermost plugin or standalone personal desktop application.
 
-- **[Super Productivity (super-productivity/super-productivity)](https://github.com/super-productivity/super-productivity)** [![GitHub stars](https://img.shields.io/github/stars/super-productivity/super-productivity?style=social&color=white)](https://github.com/super-productivity/super-productivity/stargazers)  
+- **[Super Productivity (super-productivity/super-productivity)](https://github.com/super-productivity/super-productivity)** [![GitHub_Stars](https://img.shields.io/github/stars/super-productivity/super-productivity?style=social&color=white)](https://github.com/super-productivity/super-productivity/stargazers)  
   Open-source personal to-do list, time-tracker, and daily task planner featuring bi-directional synchronization with Jira, GitHub, GitLab, and OpenProject, complete with Pomodoro timers.
 
-- **[WeKan (wekan/wekan)](https://github.com/wekan/wekan)** [![GitHub stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers)  
+- **[WeKan (wekan/wekan)](https://github.com/wekan/wekan)** [![GitHub_Stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers)  
   Mature, feature-rich open-source Kanban board supporting multi-level swimlanes, Work-In-Progress (WIP) limits, checklists, rule-based automations, and turnkey Docker/Snap deployments.
 
-- **[OpenProject (opf/openproject)](https://github.com/opf/openproject)** [![GitHub stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)  
+- **[OpenProject (opf/openproject)](https://github.com/opf/openproject)** [![GitHub_Stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)  
   Comprehensive enterprise open-source project management suite offering agile Kanban boards, interactive Gantt timelines, bug tracking, cost reporting, and product roadmaps.
 
-- **[Planka (plankanban/planka)](https://github.com/plankanban/planka)** [![GitHub stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers)  
+- **[Planka (plankanban/planka)](https://github.com/plankanban/planka)** [![GitHub_Stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers)  
   Real-time, responsive open-source Kanban board application designed as a clean, self-hosted alternative to Trello with Markdown support, card timers, custom backgrounds, and attachments.
 
-- **[Leantime (Leantime/leantime)](https://github.com/Leantime/leantime)** [![GitHub stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers)  
+- **[Leantime (Leantime/leantime)](https://github.com/Leantime/leantime)** [![GitHub_Stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers)  
   Open-source strategic project management system combining Kanban boards, milestones, timesheets, retrospectives, and goal tracking designed intentionally for neurodiverse and lean teams.
 
-- **[Kanboard (kanboard/kanboard)](https://github.com/kanboard/kanboard)** [![GitHub stars](https://img.shields.io/github/stars/kanboard/kanboard?style=social&color=white)](https://github.com/kanboard/kanboard/stargazers)  
+- **[Kanboard (kanboard/kanboard)](https://github.com/kanboard/kanboard)** [![GitHub_Stars](https://img.shields.io/github/stars/kanboard/kanboard?style=social&color=white)](https://github.com/kanboard/kanboard/stargazers)  
   Minimalist, ultra-fast open-source project management software strictly adhering to the Kanban methodology with drag-and-drop boards, subtasks, SQL drivers, and low footprint.
 
-- **[Taskbook (klaudiosinani/taskbook)](https://github.com/klaudiosinani/taskbook)** [![GitHub stars](https://img.shields.io/github/stars/klaudiosinani/taskbook?style=social&color=white)](https://github.com/klaudiosinani/taskbook/stargazers)  
+- **[Taskbook (klaudiosinani/taskbook)](https://github.com/klaudiosinani/taskbook)** [![GitHub_Stars](https://img.shields.io/github/stars/klaudiosinani/taskbook?style=social&color=white)](https://github.com/klaudiosinani/taskbook/stargazers)  
   Command-line interface for tasks, boards, and notes across multiple terminal boards with clean visual syntax, priorities, timeline views, and atomic storage.
 
-- **[Dendron (dendronhq/dendron)](https://github.com/dendronhq/dendron)** [![GitHub stars](https://img.shields.io/github/stars/dendronhq/dendron?style=social&color=white)](https://github.com/dendronhq/dendron/stargazers)  
+- **[Dendron (dendronhq/dendron)](https://github.com/dendronhq/dendron)** [![GitHub_Stars](https://img.shields.io/github/stars/dendronhq/dendron?style=social&color=white)](https://github.com/dendronhq/dendron/stargazers)  
   Open-source, local-first hierarchical note-taking and task-tracking engine built inside VS Code, managing backlogs and reference documentation in version-controlled Markdown.
 
-- **[Taskwarrior (GothenburgBitFactory/taskwarrior)](https://github.com/GothenburgBitFactory/taskwarrior)** [![GitHub stars](https://img.shields.io/github/stars/GothenburgBitFactory/taskwarrior?style=social&color=white)](https://github.com/GothenburgBitFactory/taskwarrior/stargazers)  
+- **[Taskwarrior (GothenburgBitFactory/taskwarrior)](https://github.com/GothenburgBitFactory/taskwarrior)** [![GitHub_Stars](https://img.shields.io/github/stars/GothenburgBitFactory/taskwarrior?style=social&color=white)](https://github.com/GothenburgBitFactory/taskwarrior/stargazers)  
   Industrial-grade, open-source command-line task management utility featuring rich boolean filtering, tags, recurring tasks, dependency tracking, and terminal reports.
 
-- **[Vikunja (go-vikunja/vikunja)](https://github.com/go-vikunja/vikunja)** [![GitHub stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)  
+- **[Vikunja (go-vikunja/vikunja)](https://github.com/go-vikunja/vikunja)** [![GitHub_Stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)  
   Modern open-source, self-hosted to-do and task management server with web frontend supporting Kanban boards, Gantt charts, table views, CalDAV synchronization, and Todoist imports.
 
-- **[Taskcafe (JordanKnott/taskcafe)](https://github.com/JordanKnott/taskcafe)** [![GitHub stars](https://img.shields.io/github/stars/JordanKnott/taskcafe?style=social&color=white)](https://github.com/JordanKnott/taskcafe/stargazers)  
+- **[Taskcafe (JordanKnott/taskcafe)](https://github.com/JordanKnott/taskcafe)** [![GitHub_Stars](https://img.shields.io/github/stars/JordanKnott/taskcafe?style=social&color=white)](https://github.com/JordanKnott/taskcafe/stargazers)  
   Clean, open-source personal and team Kanban project management tool built with Go, React, and GraphQL with drag-and-drop card organization and custom status labels.
 
-- **[Obsidian Kanban (community-archive/obsidian-kanban)](https://github.com/community-archive/obsidian-kanban)** [![GitHub stars](https://img.shields.io/github/stars/community-archive/obsidian-kanban?style=social&color=white)](https://github.com/community-archive/obsidian-kanban/stargazers)  
+- **[Obsidian Kanban (community-archive/obsidian-kanban)](https://github.com/community-archive/obsidian-kanban)** [![GitHub_Stars](https://img.shields.io/github/stars/community-archive/obsidian-kanban?style=social&color=white)](https://github.com/community-archive/obsidian-kanban/stargazers)  
   Popular open-source Kanban plugin for Obsidian that renders native Markdown lists as visual interactive drag-and-drop boards with date pickers and checkable sub-items.
 
-- **[Nullboard (apankrat/nullboard)](https://github.com/apankrat/nullboard)** [![GitHub stars](https://img.shields.io/github/stars/apankrat/nullboard?style=social&color=white)](https://github.com/apankrat/nullboard/stargazers)  
+- **[Nullboard (apankrat/nullboard)](https://github.com/apankrat/nullboard)** [![GitHub_Stars](https://img.shields.io/github/stars/apankrat/nullboard?style=social&color=white)](https://github.com/apankrat/nullboard/stargazers)  
   Ultra-lightweight, single-file, offline-first personal Kanban board stored completely in local browser storage or plain JSON files without backend servers or databases.
 
-- **[Trilium Notes (TriliumNext/Notes)](https://github.com/TriliumNext/Notes)** [![GitHub stars](https://img.shields.io/github/stars/TriliumNext/Notes?style=social&color=white)](https://github.com/TriliumNext/Notes/stargazers)  
+- **[Trilium Notes (TriliumNext/Notes)](https://github.com/TriliumNext/Notes)** [![GitHub_Stars](https://img.shields.io/github/stars/TriliumNext/Notes?style=social&color=white)](https://github.com/TriliumNext/Notes/stargazers)  
   Hierarchical personal knowledge and task management system built on Node.js and SQLite with rich task tracking, attributes, scripting, and self-hosted sync.
 
-- **[Tasks.md (BaldissaraMatheus/Tasks.md)](https://github.com/BaldissaraMatheus/Tasks.md)** [![GitHub stars](https://img.shields.io/github/stars/BaldissaraMatheus/Tasks.md?style=social&color=white)](https://github.com/BaldissaraMatheus/Tasks.md/stargazers)  
+- **[Tasks.md (BaldissaraMatheus/Tasks.md)](https://github.com/BaldissaraMatheus/Tasks.md)** [![GitHub_Stars](https://img.shields.io/github/stars/BaldissaraMatheus/Tasks.md?style=social&color=white)](https://github.com/BaldissaraMatheus/Tasks.md/stargazers)  
   Self-hosted, lightweight personal Kanban board backed directly by standard Markdown files with zero database configuration or external dependencies.
 
-- **[Taiga (taigaio/taiga-docker)](https://github.com/taigaio/taiga-docker)** [![GitHub stars](https://img.shields.io/github/stars/taigaio/taiga-docker?style=social&color=white)](https://github.com/taigaio/taiga-docker/stargazers)  
+- **[Taiga (taigaio/taiga-docker)](https://github.com/taigaio/taiga-docker)** [![GitHub_Stars](https://img.shields.io/github/stars/taigaio/taiga-docker?style=social&color=white)](https://github.com/taigaio/taiga-docker/stargazers)  
   Production-ready containerized deployment for Taiga, the open-source agile project management platform for startups and cross-functional teams featuring Scrum and Kanban.
 
-- **[Taskell (smallhadroncollider/taskell)](https://github.com/smallhadroncollider/taskell)** [![GitHub stars](https://img.shields.io/github/stars/smallhadroncollider/taskell?style=social&color=white)](https://github.com/smallhadroncollider/taskell/stargazers)  
+- **[Taskell (smallhadroncollider/taskell)](https://github.com/smallhadroncollider/taskell)** [![GitHub_Stars](https://img.shields.io/github/stars/smallhadroncollider/taskell?style=social&color=white)](https://github.com/smallhadroncollider/taskell/stargazers)  
   Interactive command-line Kanban board written in Haskell that reads and persists boards in clean, human-readable Trello-compatible Markdown files.
 
-- **[Nextcloud Deck (nextcloud/deck)](https://github.com/nextcloud/deck)** [![GitHub stars](https://img.shields.io/github/stars/nextcloud/deck?style=social&color=white)](https://github.com/nextcloud/deck/stargazers)  
+- **[Nextcloud Deck (nextcloud/deck)](https://github.com/nextcloud/deck)** [![GitHub_Stars](https://img.shields.io/github/stars/nextcloud/deck?style=social&color=white)](https://github.com/nextcloud/deck/stargazers)  
   Integrated Kanban-style personal and team organization app built for Nextcloud with card attachments, user assignment, deadlines, and mobile client support.
 
-- **[Taskuary (ldbumble/taskuary)](https://github.com/ldbumble/taskuary)** [![GitHub stars](https://img.shields.io/github/stars/ldbumble/taskuary?style=social&color=white)](https://github.com/ldbumble/taskuary/stargazers)  
+- **[Taskuary (ldbumble/taskuary)](https://github.com/ldbumble/taskuary)** [![GitHub_Stars](https://img.shields.io/github/stars/ldbumble/taskuary?style=social&color=white)](https://github.com/ldbumble/taskuary/stargazers)  
   Local-first, open-source AI work partner that unifies emails, team chats, and GitHub tickets into an automated, prioritized task list where AI agents draft replies and triage tasks.
 
 ## 🤝 How to Contribute
